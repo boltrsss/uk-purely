@@ -195,7 +195,7 @@ export default function App() {
               </p>
 
               <p>
-                The powder: $29.99. One jar lasts about two months.
+                The powder: £22.99. One jar lasts about two months.
               </p>
 
               <p>
@@ -306,7 +306,7 @@ export default function App() {
               </p>
 
               <p>
-                <a href="https://go.consumerskills.org/click" className="font-bold text-green-700 hover:text-green-800 underline decoration-[3px] underline-offset-4 decoration-green-200 hover:decoration-green-500 transition-colors">PurelyWHITE Deluxe</a> is $29.99. I order from their website.
+                <a href="https://go.consumerskills.org/click" className="font-bold text-green-700 hover:text-green-800 underline decoration-[3px] underline-offset-4 decoration-green-200 hover:decoration-green-500 transition-colors">PurelyWHITE Deluxe</a> is £22.99. I order from their website.
               </p>
 
               <div className="my-10 flex justify-center text-center">
@@ -322,7 +322,7 @@ export default function App() {
               </p>
 
               <p>
-                They also back it with a money-back guarantee. So if it doesn't work for you, you're not out anything. At $29.99 with a guarantee, I honestly don't know why anyone would still book the $400 appointment first.
+                They also back it with a money-back guarantee. So if it doesn't work for you, you're not out anything. At £22.99 with a guarantee, I honestly don't know why anyone would still book the $400 appointment first.
               </p>
 
               <p className="font-black text-2xl text-gray-900 my-10">
