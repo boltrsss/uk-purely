@@ -45,7 +45,7 @@ export default function App() {
 
             <div className="article-content max-w-prose">
               <p className="text-2xl font-serif font-black text-gray-900 mb-10 leading-snug">
-                I was about to spend $400 on professional teeth whitening when my hygienist told me what she uses to keep her own teeth sparkling white, for thirty dollars. I cancelled the appointment that night.
+                I was about to spend £400 on professional teeth whitening when my hygienist told me what she uses to keep her own teeth sparkling white, for thirty dollars. I cancelled the appointment that night.
               </p>
 
               <p>
@@ -73,7 +73,7 @@ export default function App() {
               </p>
 
               <p>
-                That's what finally pushed me. I called my dental office and booked the $400 in-office whitening. Not money I could just throw around, but I was done messing around with drugstore products that didn't work.
+                That's what finally pushed me. I called my dental office and booked the £400 in-office whitening. Not money I could just throw around, but I was done messing around with drugstore products that didn't work.
               </p>
 
               <h2 className="text-3xl lg:text-4xl font-black text-gray-900 mt-16 mb-8 tracking-tight font-serif">The appointment was two weeks out. But first, I had my regular cleaning.</h2>
@@ -142,7 +142,7 @@ export default function App() {
                 "So what do you use?" I asked.
               </p>
 
-              <h2 className="text-4xl lg:text-[2.75rem] font-black text-gray-900 mt-16 mb-8 font-serif leading-tight">A $29 powder.</h2>
+              <h2 className="text-4xl lg:text-[2.75rem] font-black text-gray-900 mt-16 mb-8 font-serif leading-tight">A £22 powder.</h2>
 
               <p>
                 She said it the way you'd say you use a certain brand of dish soap. No drama.
@@ -187,11 +187,11 @@ export default function App() {
               </p>
 
               <p>
-                In-office whitening: $400. Per session. Most people need touch-ups every few months.
+                In-office whitening: £400. Per session. Most people need touch-ups every few months.
               </p>
               
               <p>
-                Crest Whitestrips: $50 a box. I threw mine away after three days.
+                Crest Whitestrips: £50 a box. I threw mine away after three days.
               </p>
 
               <p>
@@ -302,7 +302,7 @@ export default function App() {
               </div>
 
               <p>
-                I've looked around since then. The most popular brand doing something similar charges $119 for a kit.
+                I've looked around since then. The most popular brand doing something similar charges £119 for a kit.
               </p>
 
               <p>
@@ -322,7 +322,7 @@ export default function App() {
               </p>
 
               <p>
-                They also back it with a money-back guarantee. So if it doesn't work for you, you're not out anything. At £22.99 with a guarantee, I honestly don't know why anyone would still book the $400 appointment first.
+                They also back it with a money-back guarantee. So if it doesn't work for you, you're not out anything. At £22.99 with a guarantee, I honestly don't know why anyone would still book the £400 appointment first.
               </p>
 
               <p className="font-black text-2xl text-gray-900 my-10">
